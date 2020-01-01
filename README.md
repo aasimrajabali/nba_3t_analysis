@@ -8,7 +8,7 @@ It's no secret that NBA players are always looking for ways to optimize their ga
 
 But how exactly has the 3-pointer evolved over time and changed the NBA? What certain positions or stats does it potentially impact? In this analysis, we will explore how the NBA has changed along with the evolution of the 3-pointer.
 
-[Jupyter Notebook Documentation](https://nbviewer.jupyter.org/github/aasimrajabali/nba_3t_analysis/blob/master/nba_3pt_analysis_notebook.ipynb)
+[Jupyter Notebook Documentation](https://nbviewer.jupyter.org/github/aasimrajabali/nba_3t_analysis/blob/master/nba_3pt_notebook.ipynb)
 
 Installation
 ------------
