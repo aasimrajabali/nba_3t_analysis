@@ -12,6 +12,8 @@ But how exactly has the 3-pointer evolved over time and changed the NBA? What ce
 
 Installation
 ------------
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install:
+
 ```bash
 pip install pandas  
 pip install plotly
@@ -19,3 +21,7 @@ pip install plotly
 License
 -------
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+Credit
+------
+After reading the [article](https://nycdatascience.com/blog/r/how-has-the-three-point-line-changed-the-nba-and-the-game-of-basketball/) by Archie Meng, I was inspired to create this project and explore the evolution of the 3-point shot in different ways. 
